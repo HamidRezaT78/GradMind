@@ -1,0 +1,6 @@
+@GradMind_HostAddress = http://localhost:5264
+
+GET {{GradMind_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

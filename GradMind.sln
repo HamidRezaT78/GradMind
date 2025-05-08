@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradMind", "GradMind\GradMind.csproj", "{598DB77C-76AA-4601-83D6-9EE136F2242A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598DB77C-76AA-4601-83D6-9EE136F2242A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598DB77C-76AA-4601-83D6-9EE136F2242A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598DB77C-76AA-4601-83D6-9EE136F2242A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598DB77C-76AA-4601-83D6-9EE136F2242A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B03F4F-20F3-441C-9CFA-F2E3F4B35A27}
+	EndGlobalSection
+EndGlobal
